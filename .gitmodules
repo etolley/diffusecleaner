@@ -1,0 +1,6 @@
+[submodule "ddrm"]
+	path = ddrm
+	url = https://github.com/bahjat-kawar/ddrm.git
+[submodule "radionets"]
+	path = radionets
+	url = https://github.com/radionets-project/radionets.git
